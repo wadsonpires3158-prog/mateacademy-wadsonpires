@@ -1,0 +1,4 @@
+Attaching to sample, flask
+[33msample    |[0m
+[33msample    |[0m > react-redux-realworld-example-app@0.1.0 start /app
+... (cole o resto do texto aqui)
